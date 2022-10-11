@@ -5,9 +5,9 @@ Note that as we are continually developing if you found any problems or have any
 
 # Index
 ## Smart Contract based SDKs
-* [Solidity EVM](https://github.com/dantenetwork/solidity-contract-template/tree/v0.1.0)
-* [Polkadot ink! Rust WASM](https://github.com/dantenetwork/ink-sdk/tree/v0.1.0)
-* [NEAR Rust WASM](https://github.com/dantenetwork/near-contract-template/tree/v0.1.0)
+* [Solidity EVM](https://github.com/dantenetwork/solidity-contract-template/tree/v0.2.0)
+* [Polkadot ink! Rust WASM](https://github.com/dantenetwork/ink-sdk/tree/v0.2.0)
+* [NEAR Rust WASM](https://github.com/dantenetwork/near-contract-template/tree/v0.2.0)
 
 ## Resource-Oriented SDKs
-* [Flow Cadence](https://github.com/dantenetwork/flow-sdk)
+* [Flow Cadence](https://github.com/dantenetwork/flow-sdk/tree/v0.2.0)
